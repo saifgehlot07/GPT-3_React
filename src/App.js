@@ -1,6 +1,7 @@
 import React from "react";
+import "./App.css";
 
-import { Article, Brand, CTA, Feature, Navbar } from "./components";
+import { Brand, CTA, Navbar } from "./components";
 import {
   Blog,
   Features,
