@@ -9,6 +9,15 @@ body {
   background: var(--color-bg);
 }
 
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+li {
+  list-style-type: none;
+}
+
 .gradient__bg {
   background: -moz-radial-gradient(
     circle at 3% 25%,
